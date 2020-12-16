@@ -5,7 +5,7 @@
 # Nov. 30, 2020
 # Edited by WeiHaung.
 # Uploaded the land-use map from 1904 to 2015.
-# refer to DOI: https://doi.org/10.1038/s41598-019-40063-1
+# Refer to DOI: https://doi.org/10.1038/s41598-019-40063-1
 
 # Dec. 7, 2020
 # Edited by WeiHaung.
