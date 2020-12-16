@@ -1,8 +1,17 @@
 # Nov. 27, 2020
-# Edited by WeiHaung
-# Created this repository for recoding and sharing the project of "Taiwan Land-Use Change feedback in the Future."
+# Edited by WeiHaung.
+# Created this repository for recoding and sharing the project of "Taiwan Land-Use Change feedback in the Future".
 
+# Nov. 30, 2020
+# Edited by WeiHaung.
+# Uploaded the land-use map from 1904 to 2015.
+# refer to DOI: https://doi.org/10.1038/s41598-019-40063-1
 
-# Upload the land-use map form 1904 to 2015
+# Dec. 7, 2020
+# Edited by WeiHaung.
+# Uploaded the LUH2 data set in Taiwan Area from 2015 to 2100.
 
-# 
+# Dec. 14, 2020
+# Edited by WeiHaung.
+# Uploaded the transition of LUH2 data set from 2015 to 2100.
+# Pending to upload the processing script.
